@@ -1,0 +1,3 @@
+[submodule "be-pitch-pro"]
+	path = be-pitch-pro
+	url = https://github.com/Arropi/be-pitch-pro.git
